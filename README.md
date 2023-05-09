@@ -20,6 +20,6 @@
 + Leida Li, Tianwu Zhi, Guangming Shi, Yuzhe Yang, Liwu Xu, Yaqian Li, Yandong Guo, "Anchor-based Knowledge Embedding for Image Aesthetics Assessment", **_Neurocomputing_**, 2023.
 
 #### 2022 
-+ Tianshu Song, Leida Li, Jinjian Wu, Yuzhe Yang, Yaqian Li, Yandong Guo, Guangming Shi, "*Knowledge-Guided Blind Image Quality Assessment With Few Training Samples*", **_TMM_**, 2022.
-+ Yipo Huang, Leida Li, Yuzhe Yang, Yaqian Li, Yandong Guo, Guangming Shi, "*Explainable and Generalizable Blind Image Quality Assessment via Semantic Attribute Reasoning*", **_TMM_**, 2022.
-+ Guanghui Yue, Di Cheng, Leida Li, Tianwei Zhou, Hantao Liu, Tianfu Wang, "*Semi-Supervised Authentically Distorted Image Quality Assessment with Consistency-Preserving Dual-Branch Convolutional Neural Network*", **_TMM_**, 2022.
++ Tianshu Song, Leida Li, Jinjian Wu, Yuzhe Yang, Yaqian Li, Yandong Guo, Guangming Shi, "*Knowledge-Guided Blind Image Quality Assessment With Few Training Samples*", **_TMM_**, 2022. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10003665)
++ Yipo Huang, Leida Li, Yuzhe Yang, Yaqian Li, Yandong Guo, Guangming Shi, "*Explainable and Generalizable Blind Image Quality Assessment via Semantic Attribute Reasoning*", **_TMM_**, 2022. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9966848)
++ Guanghui Yue, Di Cheng, Leida Li, Tianwei Zhou, Hantao Liu, Tianfu Wang, "*Semi-Supervised Authentically Distorted Image Quality Assessment with Consistency-Preserving Dual-Branch Convolutional Neural Network*", **_TMM_**, 2022. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9903545)
