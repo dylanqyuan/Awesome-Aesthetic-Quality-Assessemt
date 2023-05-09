@@ -30,5 +30,5 @@
 + Leida Li, Hancheng Zhu, Sicheng Zhao, Guiguang Ding, Weisi Lin, "*Personality-assisted Multi-task Learning for Generic and Personalized Image Aesthetics Assessment*", IEEE Transactions on Image Processing, vol. 29, pp. 3898-3910, 2020. [[Code]](https://github.com/zhuhancheng/PA_IAA)
 
 #### 2016
-+ Leida Li, Weisi Lin, Xuesong Wang, Gaobo Yang, Khosro Bahrami, Alex C. Kot,“No-reference Image Blur Assessment Based on Discrete Orthogonal Moments", **_TIP_**, 2016. [[Code]](https://web.xidian.edu.cn/ldli/files/20200220_221342.rar) *ESI Hot* 🔥
++ Leida Li, Weisi Lin, Xuesong Wang, Gaobo Yang, Khosro Bahrami, Alex C. Kot,“No-reference Image Blur Assessment Based on Discrete Orthogonal Moments", **_TIP_**, 2016, **ESI Hot** 🔥 [[Code]](https://web.xidian.edu.cn/ldli/files/20200220_221342.rar) 
 + Leida Li, Hao Cai, Yabin Zhang, Weisi Lin, Alex C. Kot, Xingming Sun, "*Sparse Representation Based Image Quality Index with Adaptive Sub-dictionaries*", **_TIP_**, 2016. [[Code]](https://web.xidian.edu.cn/ldli/files/20200220_222536.zip)
