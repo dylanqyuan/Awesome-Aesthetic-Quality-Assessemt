@@ -17,7 +17,7 @@
 + Pengfei Chen, Leida Li, Haoliang Li, Jinjian Wu, Weisheng Dong, Guangming Shi, "*Dynamic Expert-Knowledge Ensemble for Generalizable Video Quality Assessment*", **_TCSVT_**, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9966626)
 + Ran Yi, Haoyuan Tian, Zhihao Gu, Yu-Kun Lai, Paul L. Rosin: "*Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method*" **_CVPR_**, 2023. [[PDF]](https://arxiv.org/abs/2303.15166) 
 + Junjie Ke, Keren Ye, Jiahui Yu, Yonghui Wu, Peyman Milanfar, Feng Yang: "*VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining*" **_CVPR_**, 2023. [[PDF]](https://arxiv.org/abs/2303.14302)
-+ Leida Li, Tianwu Zhi, Guangming Shi, Yuzhe Yang, Liwu Xu, Yaqian Li, Yandong Guo, "Anchor-based Knowledge Embedding for Image Aesthetics Assessment", **_Neurocomputing_**, 2023.
+
 
 #### 2022 
 + Leida Li, Pengfei Chen, Weisi Lin, Mai Xu, Guangming Shi, "*From Whole Video to Frames: Weakly-Supervised Domain Adaptive Continuous-Time QoE Evaluation*", **_TIP_**, 2022.
