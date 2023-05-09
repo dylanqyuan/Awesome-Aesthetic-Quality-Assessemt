@@ -20,6 +20,15 @@
 + Leida Li, Tianwu Zhi, Guangming Shi, Yuzhe Yang, Liwu Xu, Yaqian Li, Yandong Guo, "Anchor-based Knowledge Embedding for Image Aesthetics Assessment", **_Neurocomputing_**, 2023.
 
 #### 2022 
++ Leida Li, Pengfei Chen, Weisi Lin, Mai Xu, Guangming Shi, "*From Whole Video to Frames: Weakly-Supervised Domain Adaptive Continuous-Time QoE Evaluation*", **_TIP_**, 2022.
 + Tianshu Song, Leida Li, Jinjian Wu, Yuzhe Yang, Yaqian Li, Yandong Guo, Guangming Shi, "*Knowledge-Guided Blind Image Quality Assessment With Few Training Samples*", **_TMM_**, 2022. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10003665)
 + Yipo Huang, Leida Li, Yuzhe Yang, Yaqian Li, Yandong Guo, Guangming Shi, "*Explainable and Generalizable Blind Image Quality Assessment via Semantic Attribute Reasoning*", **_TMM_**, 2022. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9966848)
 + Guanghui Yue, Di Cheng, Leida Li, Tianwei Zhou, Hantao Liu, Tianfu Wang, "*Semi-Supervised Authentically Distorted Image Quality Assessment with Consistency-Preserving Dual-Branch Convolutional Neural Network*", **_TMM_**, 2022. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9903545)
+
+
+#### 2020
++ Leida Li, Hancheng Zhu, Sicheng Zhao, Guiguang Ding, Weisi Lin, "*Personality-assisted Multi-task Learning for Generic and Personalized Image Aesthetics Assessment*", IEEE Transactions on Image Processing, vol. 29, pp. 3898-3910, 2020. [[Code]](https://github.com/zhuhancheng/PA_IAA)
+
+#### 2016
++ Leida Li, Weisi Lin, Xuesong Wang, Gaobo Yang, Khosro Bahrami, Alex C. Kot,“No-reference Image Blur Assessment Based on Discrete Orthogonal Moments", **_TIP_**, 2016. [[Code]](https://web.xidian.edu.cn/ldli/files/20200220_221342.rar) *ESI Hot* 🔥
++ Leida Li, Hao Cai, Yabin Zhang, Weisi Lin, Alex C. Kot, Xingming Sun, "*Sparse Representation Based Image Quality Index with Adaptive Sub-dictionaries*", **_TIP_**, 2016. [[Code]](https://web.xidian.edu.cn/ldli/files/20200220_222536.zip)
