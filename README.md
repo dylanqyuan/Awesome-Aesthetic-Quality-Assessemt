@@ -38,7 +38,7 @@
 + Leida Li, Yu Zhou, Ke Gu, Weisi Lin, Shiqi Wang, "Quality Assessment of DIBR-synthesized Images by Measuring Local Geometric Distortions and Global Sharpness", **_TMM_**, 2018.[[Code]](https://web.xidian.edu.cn/ldli/files/20200220_221824.rar)
 
 #### 2017
-Leida Li, Wenhan Xia, Weisi Lin, Yuming Fang, Shiqi Wang, "No-reference and Robust Image Sharpness Evaluation Based on Multi-scale Spatial and Spectral Features", **_TMM_**, 2017.[[Code]]https://web.xidian.edu.cn/ldli/files/20200220_221716.zip
+Leida Li, Wenhan Xia, Weisi Lin, Yuming Fang, Shiqi Wang, "No-reference and Robust Image Sharpness Evaluation Based on Multi-scale Spatial and Spectral Features", **_TMM_**, 2017.[[Code]](https://web.xidian.edu.cn/ldli/files/20200220_221716.zip)
 
 #### 2016
 + Leida Li, Weisi Lin, Xuesong Wang, Gaobo Yang, Khosro Bahrami, Alex C. Kot,“No-reference Image Blur Assessment Based on Discrete Orthogonal Moments", **_TIP_**, 2016, **_ESI Hot!_** 🔥 [[Code]](https://web.xidian.edu.cn/ldli/files/20200220_221342.rar) 
