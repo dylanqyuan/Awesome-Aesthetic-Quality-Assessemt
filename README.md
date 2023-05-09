@@ -30,7 +30,7 @@
 
 
 #### 2020
-+ Leida Li, Hancheng Zhu, Sicheng Zhao, Guiguang Ding, Weisi Lin, "*Personality-assisted Multi-task Learning for Generic and Personalized Image Aesthetics Assessment*", IEEE Transactions on Image Processing, vol. 29, pp. 3898-3910, 2020. [[Code]](https://github.com/zhuhancheng/PA_IAA)
++ Leida Li, Hancheng Zhu, Sicheng Zhao, Guiguang Ding, Weisi Lin, "*Personality-assisted Multi-task Learning for Generic and Personalized Image Aesthetics Assessment*", **_TIP_**, 2020. [[Code]](https://github.com/zhuhancheng/PA_IAA)
 + Leida Li, Yu Zhou, Ke Gu,Yuzhe Yang,Yuming Fang, "*Blind Realistic Blur Assessment Based on Discrepancy Learning*", **_TCSVT_**, 2020.
 
 
