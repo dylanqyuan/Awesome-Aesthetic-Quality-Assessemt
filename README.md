@@ -15,8 +15,6 @@
 + Leida Li, Yipo Huang, Jinjian Wu, Yuzhe Yang, Yaqian Li, Yandong Guo, Guangming Shi, "*Theme-aware Visual Attribute Reasoning for Image Aesthetics Assessment*",  **_TCSVT_**, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10054147) [[Code]]( https://github.com/yipoh/TAVAR)
 + Leida Li, Tong Zhu, Pengfei Chen, Yuzhe Yang, Yaqian Li, Weisi Lin, "*Image Aesthetics Assessment with Attribute-Assisted Multimodal Memory Network*", **_TCSVT_**, 2023. 
 + Pengfei Chen, Leida Li, Haoliang Li, Jinjian Wu, Weisheng Dong, Guangming Shi, "*Dynamic Expert-Knowledge Ensemble for Generalizable Video Quality Assessment*", **_TCSVT_**, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9966626)
-+ Ran Yi, Haoyuan Tian, Zhihao Gu, Yu-Kun Lai, Paul L. Rosin: "*Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method*" **_CVPR_**, 2023. [[PDF]](https://arxiv.org/abs/2303.15166) 
-+ Junjie Ke, Keren Ye, Jiahui Yu, Yonghui Wu, Peyman Milanfar, Feng Yang: "*VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining*" **_CVPR_**, 2023. [[PDF]](https://arxiv.org/abs/2303.14302)
 
 
 #### 2022 
