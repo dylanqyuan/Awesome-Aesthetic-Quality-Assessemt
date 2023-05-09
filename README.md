@@ -8,7 +8,7 @@
 #### 2023 
 
 
-### Image Quality/Aesthetic Assessment
+### Aesthetic Quality Assessment
 
 #### 2023 
 
