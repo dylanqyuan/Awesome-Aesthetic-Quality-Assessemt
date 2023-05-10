@@ -1,15 +1,6 @@
 # Awesome-Crpping-and-Aesthetic-Quality-Assessemt
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
-## Papers
-
-### Image Cropping
-#### 2023 
-
-
-### Aesthetic Quality Assessment
-
 #### 2023 
 
 + Leida Li, Yipo Huang, Jinjian Wu, Yuzhe Yang, Yaqian Li, Yandong Guo, Guangming Shi, "*Theme-aware Visual Attribute Reasoning for Image Aesthetics Assessment*",  **_TCSVT_**, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10054147) [[Code]]( https://github.com/yipoh/TAVAR)
